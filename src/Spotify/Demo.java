@@ -1,6 +1,5 @@
-package l2;
+package Spotify;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Demo {
@@ -48,12 +47,7 @@ public class Demo {
             System.out.println(list[i]);
             i++;
         }
-//
-//        System.out.println(m1);
-//        System.out.println(m2);
-//        System.out.println(m3);
-//        System.out.println(m4);
-//        System.out.println(m5);
+
         boolean l=m1.equals(m2);
         System.out.println(l);
     }

@@ -1,4 +1,4 @@
-package l2;
+package Spotify;
 public class Artist {
     private String name;
     private String nationality;

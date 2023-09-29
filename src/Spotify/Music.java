@@ -1,4 +1,4 @@
-package l2;
+package Spotify;
 
 public class Music {
     private String tittle;
